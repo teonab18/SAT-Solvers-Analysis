@@ -1,0 +1,16 @@
+Instance,Algorithm,Result,Time(s)
+uf20-01.cnf,DPLL,SAT,0.0010
+uf20-01.cnf,DP,TIMEOUT/ERROR,N/A
+uf20-01.cnf,Resolution,TIMEOUT/ERROR,N/A
+uf20-02.cnf,DPLL,SAT,0.0020
+uf20-02.cnf,DP,TIMEOUT/ERROR,N/A
+uf20-02.cnf,Resolution,TIMEOUT/ERROR,N/A
+uf20-03.cnf,DPLL,SAT,0.0020
+uf20-03.cnf,DP,TIMEOUT/ERROR,N/A
+uf20-03.cnf,Resolution,TIMEOUT/ERROR,N/A
+uf20-04.cnf,DPLL,SAT,0.0010
+uf20-04.cnf,DP,TIMEOUT/ERROR,N/A
+uf20-04.cnf,Resolution,TIMEOUT/ERROR,N/A
+uf20-05.cnf,DPLL,SAT,0.0020
+uf20-05.cnf,DP,TIMEOUT/ERROR,N/A
+uf20-05.cnf,Resolution,TIMEOUT/ERROR,N/A
